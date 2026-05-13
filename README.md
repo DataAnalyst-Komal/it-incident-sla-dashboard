@@ -17,9 +17,9 @@ The dataset contains IT incident records including priority, category, departmen
 ## Key Insights
 - High SLA breach (**72.75%**) indicates significant performance gaps in incident resolution  
 - **IT Support** handles the highest volume of incidents (**268**) and shows the highest SLA breach (**74.63%**)  
-- **Security** and **Server** issues drive the majority of high (**324**) and critical (**320**) incidents  
-- High & Critical priority incidents take longer (**~35 hrs**) to resolve, contributing to SLA breaches  
-- SLA breaches peak during **October–November**, indicating operational strain  
+- **Security** and **Server-related** issues contribute heavily to High (**324**) and Critical (**320**) priority incidents.  
+- High and Critical priority incidents require the longest resolution time (**~35 hrs**), increasing SLA breach risk.
+- - SLA breaches peak during **October–November**, indicating operational strain  
 - **Remote Site 1** reports the highest number of incidents (**276**)  
 
 ## Dashboard Features
