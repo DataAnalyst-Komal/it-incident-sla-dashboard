@@ -36,7 +36,7 @@ The dataset contains IT incident records including priority, category, departmen
 - Enables better resource allocation for IT support  
 
 ## Dashboard Preview
-!dashboard[snapshot-it-incident-sla-dashboard.PNG]
+![dashboard](https://github.com/DataAnalyst-Komal/it-incident-sla-dashboard/blob/main/snapshot-it-incident-sla-dashboard.PNG)
 
 ## Learnings
 - Gained hands-on experience with ITSM data and incident lifecycle  
