@@ -38,11 +38,12 @@ Critical Incidents- 320
 
 ## SLA Performance by Priority
 
-Priority  Avg_Resolution SLA_Target Status
-Critical  34.6 hrs       1–4 hrs    Breaching ~9x
-High      35.2 hrs       4–8 hrs    Breaching ~5x
-Medium    38.3 hrs       24–48 hrs  Within SLA
-Low       36.1 hrs       3–5 days   Within SLA
+| Priority | Avg Resolution | SLA Target | Status |
+|----------|---------------|------------|--------|
+| Critical | 34.6 hrs | 1–4 hours | Breaching ~9x |
+| High | 35.2 hrs | 4–8 hours | Breaching ~5x |
+| Medium | 38.3 hrs | 24–48 hours | Within SLA |
+| Low | 36.1 hrs | 3–5 days | Within SLA |
 
 ## Dashboard Features
 
